@@ -1,6 +1,6 @@
 node_modules
 build
-App2
+./src/App2
 /src/App3
 build
 webpack.config.js
